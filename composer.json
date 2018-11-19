@@ -1,0 +1,11 @@
+{
+    "name":        "alexandermatveev/username-blacklist",
+    "homepage":    "https://github.com/AlexanderMatveev/username-blacklist",
+    "license":     ["MIT"],
+    "authors":     [
+        {
+            "name":     "Aleksandr Matveev",
+            "homepage": "https://github.com/AlexanderMatveev"
+        }
+    ]
+}
